@@ -1,2 +1,4 @@
 # Elliot Industries (TM)
-A BetterDiscord Theme
+
+
+A BetterDiscord Theme, inspired from https://commandcrafterhd.github.io/.
