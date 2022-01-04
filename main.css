@@ -52,7 +52,7 @@
 }
 
 .info-1VyQPT:last-child::after {
-  content: "Fallout Terminal Version 1.2.1";
+  content: "Elliot Computer Systems (TM) - 1991";
   font-size: 12px;
   line-height: 16px;
   color: var(--highlight);
