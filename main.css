@@ -101,7 +101,7 @@ body *, .userPopout-3XzG_A * {
 .wordmarkWindows-1v0lYD::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://raw.githubusercontent.com/Les-Bombi-Inc/DiscordRepo/main/svg/elliotintm.svg");
+  -webkit-mask-image: url("https://wh1ter0seo4.github.io/Elliotindustries-discord/svg/title.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
