@@ -1,2 +1,2 @@
-# Elliotindustries-discord
+# Elliot Industries (TM)
 A BetterDiscord Theme
