@@ -1,4 +1,4 @@
-# Elliot Industries (TM)
+# Elliot Computer Systems (TM)
 
 
 A BetterDiscord Theme, inspired from CommandCrafterHd, DeviBro & Much More Creative Individuals.
